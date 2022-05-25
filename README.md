@@ -1,4 +1,4 @@
-# MISOChallenge2021_infants_behavior_estimation
+# MISOChallenge2021_infants_action_estimation
 
 ## 1. Overview
 ### 대회 개요.
