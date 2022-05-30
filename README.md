@@ -34,7 +34,7 @@
 
 - Video Anomaly detection을 위해 설계된 Spatio-temporal Attention-based Model (STAM)
 원 논문은 “비디오에서 뇌성마비 행동 징후를 탐지”하는 작업을 수행함
-- Input: pose sequence (Skeleton graph) / Output: behavior evaluation class [0, 1, 2, 3]
+- Input: pose sequence (Skeleton graph) / Output: behavior evaluation class [1, 2, 3, 4]
 
 ## 2. 팀빌딩
 **- Leader : [thomas11809](https://github.com/thomas11809)**     
