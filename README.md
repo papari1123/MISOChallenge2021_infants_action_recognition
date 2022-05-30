@@ -16,10 +16,7 @@
 - **주관 : (주)미소정보기술**
 ### 대회 성적
 **rank : 최우수상 (2/6) 🏆️**.   
-
-
-role : ideation, paper search, model test, data processing support.
-tech : torch, torch-vision, numpy
+**tech : torch, torch-vision, numpy**
 
 
 ### 전체 프로세스 도식
