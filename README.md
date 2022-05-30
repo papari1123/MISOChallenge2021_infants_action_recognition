@@ -51,7 +51,7 @@
 
 **- Follower3 : [papari1123](https://github.com/papari1123)**     
   - M.S. in Department of Human ICT convergence in SKKU. / B.S. in Department of Information Display, KHU.   
-  - **Role:** 행동 분류 예측 모델 적용, 논문 서베이, 데이터 라벨링 및 정제, 영유아 행동 평가 관련 아이디어 제시, 자료취합. 
+  - **Role:** 행동 평가 모델 적용, 논문 서베이, 데이터 라벨링 및 정제, 영유아 행동 평가 관련 아이디어 제시, 자료취합. 
 
 
 
